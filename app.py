@@ -144,19 +144,3 @@ def show_menu():
 
 
 show_menu()
-# company_data = ("BedsTaxi Ltd",)
-# company_id = create_company(conn, company_data)
-# print(company_id)
-
-# driver_data = ("Jan", "Kowalski", "+446943869549", "BMW", "Red", company_id)
-# driver_id = create_driver(conn, driver_data)
-# print(driver_id)
-
-# customer_data = ("william@gmail.com", "secret123", "William", "Smith", "+446034985209")
-# customer_id = create_customer(conn, customer_data)
-# print(customer_id)
-
-# trip_data = (driver_id, customer_id, "10:15", "Luton", "10:40", "Hemel Hempstead","card")
-# trip = create_trip(conn, trip_data)
-# print(trip)
-
